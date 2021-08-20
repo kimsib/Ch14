@@ -1,0 +1,11 @@
+id=call1212
+eng_name=kim
+kor_name=±è
+#kor_name=±è
+data=80,90,95
+c:/Temp
+
+
+
+
+
